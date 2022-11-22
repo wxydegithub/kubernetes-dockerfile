@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.3.0
+FROM kubesphere/kube-state-metrics:v2.3.0
