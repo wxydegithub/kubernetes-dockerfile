@@ -1,1 +1,1 @@
-FROM kubesphere/kube-state-metrics:v2.3.0
+FROM dyrnq/kube-state-metrics:v2.3.0
